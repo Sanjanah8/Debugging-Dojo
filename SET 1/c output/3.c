@@ -9,4 +9,5 @@ main()
 
 
 Output: %s Geeks For Geeks Geeks For Geeks 
-Explanation: After pre-processing phase of compilation, printf statement will become. 
+Explanation: After pre-processing phase of compilation, printf statement will become.
+printf("%s Geeks For Geeks ",  "%s Geeks For Geeks ");
